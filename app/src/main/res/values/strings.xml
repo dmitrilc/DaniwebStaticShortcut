@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Daniweb Static Shortcut</string>
+    <string name="shortcut_label">Example Shortcut Label</string>
+</resources>
